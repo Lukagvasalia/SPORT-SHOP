@@ -1,0 +1,35 @@
+.AAA{
+    background-color: 
+    #1E201E;
+}
+.FFF{
+    background-color: #343131;
+}
+.CCC{
+    background-color: #ECDFCC;
+} 
+p{
+    color: black;
+}
+.GGG{
+    background-color: #0C1844;
+}
+img{
+    border-radius: 30%;
+}
+.card{
+    background-color: #C0D6E8;
+}
+@media (min-width:992px) {
+    .AAA{
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width:576px) {
+    .AAA{
+        width: 100%;
+        height: auto;
+    }
+}

@@ -1,0 +1,42 @@
+img{
+    border-radius: 30%;
+}
+.SSS{
+    background-image: url(./Untitled\ design\ \(12\).png);
+    background-size: cover;
+}
+*{
+    color: azure;
+}
+#K{
+    background-color:goldenrod;
+    color:black;
+    border-radius:45%;
+
+}
+.HHH{
+    background-color:#00224D;
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width:992px) {
+    .luka{
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width:576px) {
+    .luka{
+        width: 100%;
+        height: auto;
+    }
+}
